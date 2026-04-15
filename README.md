@@ -16,6 +16,25 @@ Electron + React desktop app for live tokscale metrics.
 - NSIS installer supports custom install path (Windows 10/11)
 - Installer deploys bundled `tokscale.exe`, creates `tokscale.cmd`, and appends install directory to user PATH
 
+## 操作演示视频
+
+> 如果你的平台不支持内嵌播放器，可直接点击下方“下载/打开视频”。
+
+### 视频 1
+<video src="./示例视频1.mp4" controls muted playsinline width="900"></video>
+
+[下载/打开视频 1](./示例视频1.mp4)
+
+### 视频 2
+<video src="./示例视频2.mp4" controls muted playsinline width="900"></video>
+
+[下载/打开视频 2](./示例视频2.mp4)
+
+### 视频 3
+<video src="./示例视频3.mp4" controls muted playsinline width="900"></video>
+
+[下载/打开视频 3](./示例视频3.mp4)
+
 ## Development
 
 ```bash
